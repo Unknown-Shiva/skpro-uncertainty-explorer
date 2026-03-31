@@ -130,10 +130,4 @@ Then set `target_column=price`.
 - [skpro GitHub](https://github.com/sktime/skpro)
 - [skpro Documentation](https://skpro.readthedocs.io)
 - [FastAPI Documentation](https://fastapi.tiangolo.com)
-- [European Summer of Code 2026](https://www.esoc.dev)
 
----
-
-## Author
-
-Built as part of preparation for contributing to [skpro](https://github.com/sktime/skpro) via [ESoC 2026](https://www.esoc.dev).
